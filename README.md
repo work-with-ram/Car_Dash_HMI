@@ -9,31 +9,26 @@ CarDashHMI is a high-performance Human-Machine Interface (HMI) digital instrumen
 
 ---
 
-## Interface & Video Preview
+## Interface & Demonstration Clips
 
 ### ECO Mode Demonstration
-![ECO Mode Dashboard Interface](screenshots/eco_mode.png)
+![ECO Mode Live Demonstration](screenshots/eco_mode.gif)
 
-<video src="https://raw.githubusercontent.com/work-with-ram/Car_Dash_HMI/main/screenshots/eco_mode.mp4" controls="controls" style="max-width: 100%;"></video>
-
-[Watch / Play ECO Mode Video Clip](https://github.com/work-with-ram/Car_Dash_HMI/blob/main/screenshots/eco_mode.mp4)
+*Full Video*: [Watch ECO Mode HD Video (MP4)](https://github.com/work-with-ram/Car_Dash_HMI/blob/main/screenshots/eco_mode.mp4)
 
 ---
 
 ### SPORT Mode Demonstration
-![SPORT Mode Dashboard Interface](screenshots/sport_mode.png)
+![SPORT Mode Live Demonstration](screenshots/sport_mode.gif)
 
-<video src="https://raw.githubusercontent.com/work-with-ram/Car_Dash_HMI/main/screenshots/sport_mode.mp4" controls="controls" style="max-width: 100%;"></video>
-
-[Watch / Play SPORT Mode Video Clip](https://github.com/work-with-ram/Car_Dash_HMI/blob/main/screenshots/sport_mode.mp4)
+*Full Video*: [Watch SPORT Mode HD Video (MP4)](https://github.com/work-with-ram/Car_Dash_HMI/blob/main/screenshots/sport_mode.mp4)
 
 ---
 
 ### Mode Transition Demonstration (ECO to SPORT)
+![ECO to SPORT Transition Live Demonstration](screenshots/eco_to_sport_transition.gif)
 
-<video src="https://raw.githubusercontent.com/work-with-ram/Car_Dash_HMI/main/screenshots/eco_to_sport_transition.mp4" controls="controls" style="max-width: 100%;"></video>
-
-[Watch / Play Mode Transition Video Clip](https://github.com/work-with-ram/Car_Dash_HMI/blob/main/screenshots/eco_to_sport_transition.mp4)
+*Full Video*: [Watch Mode Transition HD Video (MP4)](https://github.com/work-with-ram/Car_Dash_HMI/blob/main/screenshots/eco_to_sport_transition.mp4)
 
 ---
 
@@ -78,12 +73,15 @@ CarDashHMI is a high-performance Human-Machine Interface (HMI) digital instrumen
 
 ```text
 CAR-DASH-HMI/
-├── screenshots/                   # Application preview screenshots & videos
-│   ├── eco_mode.png               # ECO mode (Green Theme) interface preview
-│   ├── eco_mode.mp4               # ECO mode demonstration video
-│   ├── sport_mode.png             # SPORT mode (Red Theme) interface preview
-│   ├── sport_mode.mp4             # SPORT mode demonstration video
-│   └── eco_to_sport_transition.mp4# Swift ECO to SPORT mode transition video
+├── screenshots/                   # Application preview screenshots, animated GIFs & videos
+│   ├── eco_mode.png               # ECO mode (Green Theme) static preview
+│   ├── eco_mode.gif               # ECO mode animated demonstration clip
+│   ├── eco_mode.mp4               # ECO mode HD video
+│   ├── sport_mode.png             # SPORT mode (Red Theme) static preview
+│   ├── sport_mode.gif             # SPORT mode animated demonstration clip
+│   ├── sport_mode.mp4             # SPORT mode HD video
+│   ├── eco_to_sport_transition.gif# Swift ECO to SPORT transition animated clip
+│   └── eco_to_sport_transition.mp4# Swift ECO to SPORT transition HD video
 ├── Car_dash_HMI/
 │   ├── CarDashHMI/
 │   │   ├── Assets/                # Fonts, icons, background images, weather icons
