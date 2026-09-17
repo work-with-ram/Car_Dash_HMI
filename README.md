@@ -9,15 +9,25 @@ CarDashHMI is a high-performance Human-Machine Interface (HMI) digital instrumen
 
 ---
 
-## Interface Preview
+## Interface & Video Preview
 
-### ECO Mode
+### ECO Mode Demonstration
 ![ECO Mode Dashboard Interface](screenshots/eco_mode.png)
+
+<video src="screenshots/eco_mode.mp4" controls width="100%"></video>
 
 ---
 
-### SPORT Mode
+### SPORT Mode Demonstration
 ![SPORT Mode Dashboard Interface](screenshots/sport_mode.png)
+
+<video src="screenshots/sport_mode.mp4" controls width="100%"></video>
+
+---
+
+### Mode Transition Demonstration (ECO to SPORT)
+
+<video src="screenshots/eco_to_sport_transition.mp4" controls width="100%"></video>
 
 ---
 
@@ -62,9 +72,12 @@ CarDashHMI is a high-performance Human-Machine Interface (HMI) digital instrumen
 
 ```text
 CAR-DASH-HMI/
-├── screenshots/                   # Application preview screenshots
-│   ├── eco_mode.png               # ECO mode (Green Theme) interface
-│   └── sport_mode.png             # SPORT mode (Red Theme) interface
+├── screenshots/                   # Application preview screenshots & videos
+│   ├── eco_mode.png               # ECO mode (Green Theme) interface preview
+│   ├── eco_mode.mp4               # ECO mode demonstration video
+│   ├── sport_mode.png             # SPORT mode (Red Theme) interface preview
+│   ├── sport_mode.mp4             # SPORT mode demonstration video
+│   └── eco_to_sport_transition.mp4# Swift ECO to SPORT mode transition video
 ├── Car_dash_HMI/
 │   ├── CarDashHMI/
 │   │   ├── Assets/                # Fonts, icons, background images, weather icons
