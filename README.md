@@ -14,20 +14,26 @@ CarDashHMI is a high-performance Human-Machine Interface (HMI) digital instrumen
 ### ECO Mode Demonstration
 ![ECO Mode Dashboard Interface](screenshots/eco_mode.png)
 
-<video src="screenshots/eco_mode.mp4" controls width="100%"></video>
+<video src="https://raw.githubusercontent.com/work-with-ram/Car_Dash_HMI/main/screenshots/eco_mode.mp4" controls="controls" style="max-width: 100%;"></video>
+
+[Watch / Play ECO Mode Video Clip](https://github.com/work-with-ram/Car_Dash_HMI/blob/main/screenshots/eco_mode.mp4)
 
 ---
 
 ### SPORT Mode Demonstration
 ![SPORT Mode Dashboard Interface](screenshots/sport_mode.png)
 
-<video src="screenshots/sport_mode.mp4" controls width="100%"></video>
+<video src="https://raw.githubusercontent.com/work-with-ram/Car_Dash_HMI/main/screenshots/sport_mode.mp4" controls="controls" style="max-width: 100%;"></video>
+
+[Watch / Play SPORT Mode Video Clip](https://github.com/work-with-ram/Car_Dash_HMI/blob/main/screenshots/sport_mode.mp4)
 
 ---
 
 ### Mode Transition Demonstration (ECO to SPORT)
 
-<video src="screenshots/eco_to_sport_transition.mp4" controls width="100%"></video>
+<video src="https://raw.githubusercontent.com/work-with-ram/Car_Dash_HMI/main/screenshots/eco_to_sport_transition.mp4" controls="controls" style="max-width: 100%;"></video>
+
+[Watch / Play Mode Transition Video Clip](https://github.com/work-with-ram/Car_Dash_HMI/blob/main/screenshots/eco_to_sport_transition.mp4)
 
 ---
 
