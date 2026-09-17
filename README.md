@@ -9,6 +9,12 @@ CarDashHMI is a high-performance Human-Machine Interface (HMI) digital instrumen
 
 ---
 
+## Interface Preview
+
+![CarDashHMI Dashboard Interface Preview](screenshots/dashboard_preview.png)
+
+---
+
 ## Key Features
 
 - **Digital Gauges & Indicators**:
@@ -50,6 +56,8 @@ CarDashHMI is a high-performance Human-Machine Interface (HMI) digital instrumen
 
 ```text
 CAR-DASH-HMI/
+├── screenshots/                   # Application preview screenshots
+│   └── dashboard_preview.png
 ├── Car_dash_HMI/
 │   ├── CarDashHMI/
 │   │   ├── Assets/                # Fonts, icons, background images, weather icons
