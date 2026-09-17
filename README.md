@@ -11,7 +11,13 @@ CarDashHMI is a high-performance Human-Machine Interface (HMI) digital instrumen
 
 ## Interface Preview
 
-![CarDashHMI Dashboard Interface Preview](screenshots/dashboard_preview.png)
+### ECO Mode
+![ECO Mode Dashboard Interface](screenshots/eco_mode.png)
+
+---
+
+### SPORT Mode
+![SPORT Mode Dashboard Interface](screenshots/sport_mode.png)
 
 ---
 
@@ -57,7 +63,8 @@ CarDashHMI is a high-performance Human-Machine Interface (HMI) digital instrumen
 ```text
 CAR-DASH-HMI/
 ├── screenshots/                   # Application preview screenshots
-│   └── dashboard_preview.png
+│   ├── eco_mode.png               # ECO mode (Green Theme) interface
+│   └── sport_mode.png             # SPORT mode (Red Theme) interface
 ├── Car_dash_HMI/
 │   ├── CarDashHMI/
 │   │   ├── Assets/                # Fonts, icons, background images, weather icons
